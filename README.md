@@ -41,5 +41,6 @@
   - help() : this command return the instructions of this IC SHELL
   - !!!! : repeat the second last command
 
-  
+## Need to be done:
+- echo $ that print exit number
   
