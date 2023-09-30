@@ -45,3 +45,4 @@
 - echo $ --> needs to print previous exit number, but for now it prints 0 (idea: just save/call it from txt file inside the working directory)
 - fg %<job_id> (do not work properly) restarts the job instead ;P
 - bg %<job_id> (do not work properly) restarts the job instead :P
+- !! return the prev command but reset when you call !! again cus it saves prev !! in the history (idea: set if '!!' then do not save it in the history)
