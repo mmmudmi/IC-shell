@@ -42,5 +42,6 @@
   - !!!! : repeat the second last command
 
 ## Need to be done:
-- echo $ that print exit number
-  
+- echo $ --> needs to print previous exit number, but for now it prints 0 (idea: just save/call it from txt file inside the working directory)
+- fg %<job_id> (do not work properly) restarts the job instead ;P
+- bg %<job_id> (do not work properly) restarts the job instead :P
